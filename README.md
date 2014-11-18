@@ -1,7 +1,7 @@
 script for unlock PDF
 =========
 
-Install before context
+First install context
 
 - sudo apt-get install context
 
